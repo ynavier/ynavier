@@ -18,36 +18,23 @@
 
 <h1><img height="40" src="https://media.tenor.com/KuBAp-1E3GgAAAAi/pato-aaa.gif"> About Me</h1>
 
-**Systems Engineering** student specializing in **Data Analysis** and **Data Engineering**. Passionate about transforming complex data into actionable insights and building robust and scalable data pipelines.
+<img align="right" width="300px" alt="working" src="https://media.tenor.com/2ITHaiXAjNcAAAAi/night-shift-work.gif" />
 
-```python
-🔴 🟡 🟢
+I’m a Systems Engineering student from Valledupar, Colombia 🇨🇴 with a deep interest in **Data Engineering** and **Data Analysis**. I enjoy transforming complex datasets into meaningful structures — whether it's crafting scalable pipelines, fine-tuning queries, or revealing insights that lead to better decisions.
 
- 1  class DataEngineer:
- 2      def __init__(self):
- 3          self.name = "Yoriel Carvajalino"
- 4          self.role = "Data Engineer & Data Analyst"
- 5          self.location = "Valledupar, Colombia 🇨🇴"
- 6          self.education = "Systems Engineering - UPC"
- 7          self.languages = ["Python", "SQL", "JavaScript"]
- 8          
- 9      def current_skills(self):
-10          return {
-11              "data_engineering": ["ETL", "Data Pipelines", "Big Data"],
-12              "data_analysis": ["EDA", "Statistical Analysis", "ML"],
-13              "visualization": ["Power BI", "Tableau", "Looker"],
-14              "cloud": ["BigQuery", "Docker"],
-15              "streaming": ["Kafka", "PySpark", "Trino"]
-16          }
-17      
-18      def goal_2025(self):
-19          return "Become a professional Data Engineer and contribute to innovative projects"
-20  
-21  # Run
-22  me = DataEngineer()
-23  print(f"{me.name} | {me.role}")
-24  print(f"Goal: {me.goal_2025()}")
-```
+I navigate the full data journey: from **ingestion and processing** 🧩, to **analysis and visualization** 🔮, and even **predictive modeling** 🧠. What drives me is solving intricate problems and making data more accessible, reliable, and impactful.
+
+### 🚀 What I'm focused on
+- Building and refining **ETL/ELT pipelines** using Python, PySpark, Kafka, and Trino 🛠️  
+- Exploring and understanding data through **EDA and statistics** 🔍  
+- Creating meaningful visual narratives with **Power BI, Tableau, and Looker** 🧷  
+- Working with **cloud environments** and big data ecosystems ☁️📡  
+- Developing **machine learning models** for predictive solutions 🔧🤖  
+
+### 🎯 My Goal
+Grow as a **Data Engineer** and contribute to innovative projects where data becomes the backbone of smart, high-impact solutions.
+
+<br clear="right"/>
 
 <div>
   
