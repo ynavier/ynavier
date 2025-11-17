@@ -1,5 +1,12 @@
 <div align="center">
-<h1 align="center">Hola , soy Yoriel Vidal <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif"></h1>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hola+%2C+Soy+Yoriel+Vidal&repeat=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&center=true&vCenter=true&width=600&lines=Hola+%2C+Soy+Yoriel+Vidal&repeat=false">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&size=45&duration=3000&pause=999999&color=000000&center=true&vCenter=true&width=600&lines=Hola+%2C+Soy+Yoriel+Vidal&repeat=false" alt="Hola, Soy Yoriel Vidal" />
+  </picture>
+  <img src="https://i.gifer.com/3V3X.gif" width="80" alt="wave" />
+</h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Data+Analyst;Ingeniería+de+Sistemas;Transformando+datos+en+insights;Siempre+aprendiendo+🚀)](https://git.io/typing-svg)
 
@@ -44,11 +51,11 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 24  print(f"Objetivo: {me.objetivo_2025()}")
 ```
 
-</div>
+<div align="center">
 
 ---
 
-## 🛠️ Stack Tecnológico
+## <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif"> Stack Tecnológico
 
 ### Data Engineering & Processing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,6 +94,7 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estadísticas de GitHub
 
@@ -97,7 +105,7 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGd6N2FjenE4enB5Y3VieDMzaWpiOHZtMWxzcDExYzVlZGUyZW91NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YMYucg1qWuVpHKS6dG/giphy.gif" width="30px"> Certificaciones y Educación
+## <img height="40" src="https://i.gifer.com/MXfm.gif"> Certificaciones y Educación
 
 <details>
 <summary>Ver</summary>
@@ -116,7 +124,7 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 ---
 
 
-## 💡 Actualmente...
+## <img height="40" src="https://i.gifer.com/Paz.gif"> Actualmente...
 
 - 🔭 Trabajando en proyectos de **Data Engineering** y **ETL pipelines**
 - 🌱 Aprendiendo más sobre **Apache Airflow** y **Cloud Data Platforms**
@@ -127,9 +135,11 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 
 ---
 
-## 📫 Conecta Conmigo
-
 <div align="center">
+
+### Conecta Conmigo
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoriel-carvajalino/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yoriel-carvajalino.vercel.app/)
@@ -138,18 +148,14 @@ Estudiante de **Ingeniería de Sistemas** especializado en **Análisis de Datos*
 
 </div>
 
----
-
 <div align="center">
 
-### 💭 Frase Favorita
-
-*"Los datos son el nuevo petróleo, pero solo si sabes cómo refinarlos"* 🛢️→💎
+*"Los datos son el nuevo petróleo, pero solo si sabes cómo refinarlos"*
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VidalYC&color=blueviolet&style=for-the-badge)
 
-⭐️ From [VidalYC](https://github.com/VidalYC)
+<img src="https://i.gifer.com/6oa.gif" width="30px"> From [VidalYC](https://github.com/VidalYC)
 
 </div>
